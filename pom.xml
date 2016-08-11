@@ -16,7 +16,7 @@
     <url>me.myname</url>
     <description>Plugin description</description>
     <build>
-		<sourceDirectory>src/main/java</sourceDirectory>
+    <sourceDirectory>src/main/java</sourceDirectory>
         <defaultGoal>clean install</defaultGoal>
         <resources>
             <resource>
